@@ -1,0 +1,48 @@
+.logo1{
+    width: 60px;
+    height: 60px;
+    
+}
+.logo2{
+    width: 60px;
+    height: 60px;
+    padding-left: 20px;
+}
+.message{
+    background-color:aqua;
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: medium;
+    font-weight: bold;
+}
+.card .card-img-top{
+    width:330px;
+    height:250px;
+    margin-top:10px;
+    margin-left: 90px;
+
+}
+.card-body .card-text
+{
+    width: 30rem;
+}
+
+.card-body .btn{
+    margin-left: 190px;
+}
+.card-body .card-title{
+    margin-left: 120px;
+    text-transform: uppercase;
+}
+
+.btn{
+    margin-left: 500px;
+}
+.footerpart{
+    background-color:darkblue;
+    color:white;
+    font-size:25px;
+    text-align: center;
+    
+}
